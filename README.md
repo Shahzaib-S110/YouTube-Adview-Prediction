@@ -389,9 +389,12 @@ This project demonstrates how Machine Learning can be used to predict YouTube ad
 
 ## 👨‍💻 Author
 
-**Shahzaib Saleem**
+**Shahzaib Saleem**  
 
 * Data Science Student
 * FAST National University of Computer & Emerging Sciences (FAST-NUCES)
 * GitHub: https://github.com/Shahzaib-S110
 * LinkedIn: https://linkedin.com/in/shahzaib-saleem-110cci
+
+  **Umer Khalid**
+  **Moaz Kashif**
